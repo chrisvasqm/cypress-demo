@@ -1,5 +1,5 @@
 describe('Automation Practice Tests', () => {
   it('Can load the page', () => {
-    cy.visit('http://automationpractice.com/index.php')
+    cy.visit('https://demoqa.com/elements')
   })
 })
